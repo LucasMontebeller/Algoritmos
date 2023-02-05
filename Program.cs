@@ -9,6 +9,7 @@ public class Program
 
         System.Console.WriteLine(ArrayFormatter(Exercicios.InsertionSort(lista)));
         System.Console.WriteLine(ArrayFormatter(Laboratorio.SelectionSort(lista)));
+        System.Console.WriteLine(ArrayFormatter(Laboratorio.BubbleSort(lista)));
 
     }
 
